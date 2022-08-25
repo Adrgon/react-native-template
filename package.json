@@ -1,8 +1,8 @@
 {
-  "name": "@kadikraman/react-native-template",
+  "name": "@kadrgonadikraman/react-native-template",
   "version": "0.0.1",
   "description": "React Native Template",
-  "repository": "git@github.com:kadikraman/react-native-template.git",
-  "author": "Kadi Kraman <hellokadi@gmail.com>",
+  "repository": "git@github.com:adrgon/react-native-template.git",
+  "author": "Adrian Gonzalez <adrgon@gmail.com>",
   "license": "MIT"
 }
